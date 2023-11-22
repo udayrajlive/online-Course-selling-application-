@@ -40,7 +40,11 @@ dependencies:
   flutter_screenutil: ^5.9.0
   dots_indicator: ^3.0.0
   go_router: ^10.1.2
-
+  rive: ^0.11.4
+  firebase_auth: ^4.12.0
+  firebase_core: ^2.21.0
+  fluttertoast: ^8.2.2
+  
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -69,11 +73,13 @@ flutter:
 
   assets:
     - assets/onboarding/
+    - assets/splashScreen/
+    - assets/loginIcons/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
 
-  # For details regarding adding assets from package dependencies, see
+  # For details regarding adding assets .from package dependencies, see
   # https://flutter.dev/assets-and-images/#from-packages
 
   # To add custom fonts to your application, add a fonts section here,

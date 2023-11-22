@@ -150,6 +150,7 @@ class AppTheme {
     ),
     tabBarTheme: const TabBarTheme(),
     appBarTheme: const AppBarTheme(
+      
       iconTheme: IconThemeData(
         color: Colors.black,
       ),

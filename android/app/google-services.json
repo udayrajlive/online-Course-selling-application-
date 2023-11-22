@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "973389061375",
+    "project_id": "courseomatic-84a33",
+    "storage_bucket": "courseomatic-84a33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973389061375:android:6da61fa7b5aa029a3180ca",
+        "android_client_info": {
+          "package_name": "com.example.course_selling_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwv1BFxrpl_JFwdwf_44QWMjVnuYNYXf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
